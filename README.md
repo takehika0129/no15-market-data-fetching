@@ -1,5 +1,5 @@
 # Simple Market Data Fetching Script
-A Python script to fetch stock market data using the **Alpha Vantage API**. This script retrieves daily stock prices (Open, High, Low, Close) and displays the latest **5 days** of data.
+A Python script to fetch stock market data using the **Alpha Vantage API**. This script retrieves daily stock prices (Open, High, Low, Close) and displays the latest 5 days of data.
 
 
 ## Set up Your API Key
